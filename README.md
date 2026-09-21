@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/profile-illustration.png" width="420" alt="Illustration of Rayhan Nanda">
-</p>
-
 <h1 align="center">Hi, I'm Rayhan Nanda 👀</h1>
 
 <p align="center">
@@ -31,20 +27,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-## Featured Projects
-
-### [Room 0](https://github.com/rayhannandaa/Room-0)
-
-A narrative-driven 2D chemistry escape-room game for iOS. A young man wakes inside an unfamiliar room that has been converted into a makeshift laboratory. Players must explore the environment, collect materials, conduct simple experiments, and combine compatible items to solve obstacles while uncovering why the character was brought there.
-
-### [Metamorphosis](https://github.com/rayhannandaa/Metamorphosis)
-
-A top-down survival and discovery game about a human mysteriously transformed into a larva. The player must survive, uncover the room's story, complete their metamorphosis, and escape as a butterfly.
-
-### LightingTrial
-
-An augmented reality learning experience designed to help children understand light and shadow through playful experimentation. Children can observe how light direction and object placement affect shadows, turning an abstract concept into something they can explore directly.
-
 ## Connect With Me
 
 <p align="center">
@@ -59,12 +41,7 @@ An augmented reality learning experience designed to help children understand li
   </a>
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhannandaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Rayhan's GitHub statistics">
-  <img src="https://streak-stats.demolab.com?user=rayhannandaa&theme=tokyonight&hide_border=true" alt="Rayhan's GitHub contribution streak">
-</p>
+## Contributions
 
 <p align="center">
   <picture>
